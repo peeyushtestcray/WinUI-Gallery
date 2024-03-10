@@ -6,7 +6,7 @@ Accompanying Sample App for [WinAppSDK](https://github.com/microsoft/WindowsAppS
 
 ![WinUI Screenshot](README_Images/WinUIGalleryLanding.PNG)
 
-Shows all of the XAML UI components in an interactive format. This app is the interactive companion to the [Fluent Design Guidelines](https://docs.microsoft.com/windows/apps/design/basics/) and shows the usage of the [WinUI](https://docs.microsoft.com/windows/apps/winui/) APIs. 
+It Shows all of the XAML UI components in an interactive format. This app is the interactive companion to the [Fluent Design Guidelines](https://docs.microsoft.com/windows/apps/design/basics/) and shows the usage of the [WinUI](https://docs.microsoft.com/windows/apps/winui/) APIs. 
 
 ## The WinUI Gallery shows how to:
 
